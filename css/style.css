@@ -1,13 +1,27 @@
-*{
-    margin:0 auto;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color:#000;
+:root {
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: #000;
 }
-p{
-    text-align:center;
+
+p {
+    text-align: center;
     font-weight: bold;
     font-size: 19px;
     padding-top: 25%;
-    color:white;
-    
+    color: white;
+
+}
+button {
+    background-color: 	#18191A;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px;
+    font-weight:bold;
 }
